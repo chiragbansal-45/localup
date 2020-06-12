@@ -4252,7 +4252,8 @@ input[type="button"].btn-block {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.15rem 0.5rem;
+  font-size: 15px;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -4364,7 +4365,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -4428,7 +4429,7 @@ input[type="button"].btn-block {
   vertical-align: middle;
   content: "";
   background: no-repeat center center;
-  background-size: 100% 100%;
+  /* background-size: 100% 100%; */
 }
 
 @media (max-width: 575.98px) {
@@ -8197,7 +8198,7 @@ button.bg-dark:focus {
 
 .mt-2,
 .my-2 {
-  margin-top: 0.5rem !important;
+  margin-top: 0.3rem !important;
 }
 
 .mr-2,
