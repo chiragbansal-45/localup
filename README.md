@@ -1,0 +1,2 @@
+# localup
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f537f10a2fa4544ab5c119f90fc114c)](https://app.codacy.com/manual/agrawalchirag035/localup?utm_source=github.com&utm_medium=referral&utm_content=chiragbansal-45/localup&utm_campaign=Badge_Grade_Dashboard)
